@@ -1,5 +1,0 @@
-make png sprite : 8x8, 16x16, 32x32, 64x64
-must be indexed and 4 bit colour depth   image->mode->indexed->max colors 16       convert to indexed after finished
-alpha channel to make invisible pixels
-copy .grit file from another image and rename it
-add header file into main.cpp
